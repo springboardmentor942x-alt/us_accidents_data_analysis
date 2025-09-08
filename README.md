@@ -1,4 +1,4 @@
-RoadSafe Analytics:Road Accidents - Exploratory Data Analysis (EDA) **Project Statement:**  
+## RoadSafe Analytics:Road Accidents - Exploratory Data Analysis (EDA) **Project Statement:**  
 
 The goal of this project is to analyze a large dataset of road accidents to uncover trends, patterns, and key factors contributing to accident severity. The project involves performing in-depth exploratory data analysis (EDA) using Python libraries such as Pandas, Matplotlib, and Seaborn to extract meaningful insights that can help improve road safety.  
 
@@ -8,7 +8,7 @@ The goal of this project is to analyze a large dataset of road accidents to unco
 
 **Dataset:**  
 
-US Accidents Dataset (from Kaggle): https://www.kaggle.com/datasets/sobhanmoosavi/us-accidentsThe dataset includes over 4 million accident records with attributes such as time, location, severity, weather, road conditions, and visibility.  
+US Accidents Dataset (from Kaggle):https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents The dataset includes over 4 million accident records with attributes such as time, location, severity, weather, road conditions, and visibility.  
 
 **Modules to be Implemented:**  
 
